@@ -1,0 +1,182 @@
+.menu
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.menu:hover
+{
+    COLOR: #80ff80;
+    FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.onGreen
+{
+    COLOR: #ffffff;
+    FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.onGreen:hover
+{
+    COLOR: #dae6db;
+    FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.news
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.news:hover
+{
+    COLOR: #0000ff;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+A
+{
+    COLOR: #0040a6;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    COLOR: #ff0000;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    TEXT-DECORATION: underline
+}
+A:active
+{
+    COLOR: #ff0000;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.TextBox
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 10px
+}
+H2
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: medium;
+    FONT-WEIGHT: bold
+}
+H3
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 14pt
+}
+P
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 10pt
+}
+P.tiny
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 7pt
+}
+P.small
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 8pt
+}
+P.medium
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 9pt
+}
+P.large
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 12pt
+}
+P.xlarge
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 14pt
+}
+BODY
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 10pt
+}
+LI
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 10pt
+}
+BLOCKQUOTE
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 10pt
+}
+TD
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 10pt
+}
+PRE
+{
+    FONT-FAMILY: Courier;
+    FONT-SIZE: 8pt
+}
+TD.large
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 14pt
+}
+TD.medium
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 12pt
+}
+TD.small
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 8pt
+}
+H4
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 12pt
+}
+H5
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 10pt
+}
+.small
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 8pt
+}
+.medium
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 8pt
+}
+.large
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 11pt
+}
+.xlarge
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 14pt
+}
+.xsmall
+{
+    FONT-SIZE: 7.5pt
+}
+H1
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: large
+}
+.tiny
+{
+    FONT-SIZE: 7pt
+}
+.hand
+{
+    CURSOR: hand
+}
